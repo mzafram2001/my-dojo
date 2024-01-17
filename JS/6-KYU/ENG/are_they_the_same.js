@@ -37,7 +37,7 @@
 // 
 // If a or b are nil (or null or None, depending on the language), the problem doesn't make 
 // sense so return false.
-
+//
 // Function comp takes two arrays 'a' and 'b' as parameters
 function comp(a, b) {
     // Check if either 'a' or 'b' is falsy, or if their lengths are not equal

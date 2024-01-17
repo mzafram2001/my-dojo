@@ -9,7 +9,7 @@
 // Examples:
 // solution('abc', 'bc') // returns true
 // solution('abc', 'd') // returns false
-
+//
 // Define a function named 'solution' that takes two parameters: 'str' (a string) and 'ending' (a substring).
 function solution(str, ending) {
     // Check if 'str' ends with the specified 'ending'.

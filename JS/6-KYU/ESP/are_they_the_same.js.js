@@ -39,7 +39,7 @@
 //
 // Si a o b son nil (o null o None, dependiendo del lenguaje), el problema no tiene sentido, 
 // sí que devuelve false.
-
+//
 // La función comp toma dos arrays 'a' y 'b' como parámetros
 function comp(a, b) {
     // Comprueba si 'a' o 'b' es falsy, o si sus longitudes no son iguales

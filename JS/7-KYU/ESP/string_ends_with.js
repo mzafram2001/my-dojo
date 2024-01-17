@@ -9,7 +9,7 @@
 // Ejemplos:
 // solution('abc', 'bc') // devuelve true
 // solution('abc', 'd') // devuelve false
-
+//
 // Define una función llamada 'solution' que tome dos parámetros: 'str' (una cadena) y 'ending' (una subcadena).
 function solution(str, ending) {
     // Comprueba si 'str' termina con el 'ending' especificado.
