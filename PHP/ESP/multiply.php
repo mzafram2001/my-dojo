@@ -6,6 +6,7 @@
 // Este código no se ejecuta correctamente. Intenta descubrir por qué.
 //
 // Define una función llamada 'multiply' con dos parámetros: $a y $b
+<?php
 function multiply($a, $b) {
     // Calcula el producto de $a y $b usando el operador '*'
     $result = $a * $b;
