@@ -6,7 +6,7 @@
 // Un Número Narcisista (o Número de Armstrong) es un número positivo que 
 // es la suma de sus propios dígitos, cada uno elevado a la potencia del número de 
 // dígitos en una base dada. En este Kata, nos limitaremos al decimal (base 10).
-
+//
 // Por ejemplo, toma 153 (3 dígitos), que es narcisista:
 // 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153
 // y 1652 (4 dígitos), que no lo es:
