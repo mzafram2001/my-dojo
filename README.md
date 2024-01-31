@@ -65,7 +65,7 @@
   🇪🇸 Cada archivo de código incluirá comentarios o instrucciones específicas sobre cómo ejecutar o probar la solución. Asegúrate de seguir estas indicaciones para obtener los resultados esperados.
 </div>
 
-## 🗼 Code Execution / Ejecución de Código
+## 🗼 Acknowledgments / Agradecimientos
 
 <div>
   🇬🇧 I thank the Codewars community for providing stimulating challenges that help improve my programming skills. Have fun solving katas and improving your programming skills! 🚀
