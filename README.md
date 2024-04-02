@@ -6,7 +6,7 @@
 <a href='#'><img align='center' alt='Version' src='https://img.shields.io/badge/Version-0.0.1-FBFFF0?style=for-the-badge&logo=convertio&logoColor=white'></a>
 </p>
 
-![Banner](https://i.ibb.co/DQF9tyz/My-Dojo-2.png)
+![Banner](https://i.ibb.co/9V9rMT0/My-Dojo-2.png)
 
 <div>
   🇬🇧 Welcome to my repository of solutions to <a href="https://www.codewars.com" target="_blank">Codewars</a> Kata! Here you will find a collection of my solutions to various Codewars programming challenges, organized by difficulty level and programming language.
