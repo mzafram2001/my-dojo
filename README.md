@@ -1,6 +1,6 @@
 # 🗼 My Dojo / Mi Dojo - Codewars
 
-![Banner](https://i.ibb.co/9V9rMT0/My-Dojo-2.png)
+![Banner](https://raw.githubusercontent.com/mzafram2001/my-dojo/main/readme-src/MyDojo1.png)
 
 <p align='center'>
    <a href='#'><img align='center' alt='GitHub repo size' src='https://img.shields.io/github/repo-size/mzafram2001/my-dojo?color=FBFFF0&style=for-the-badge&logo=github'></a>
@@ -83,4 +83,4 @@
 </div>
 <br>
 
-![Banner](https://i.ibb.co/hKP3rvh/My-Dojo.png)
+![Banner](https://raw.githubusercontent.com/mzafram2001/my-dojo/main/readme-src/MyDojo2.png)
