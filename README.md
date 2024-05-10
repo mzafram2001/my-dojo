@@ -1,4 +1,4 @@
-# 🗼 My Dojo / Mi Dojo - Codewars
+# 🗼 My Dojo / Mi Dojo - Codewar
 
 ![Banner](https://raw.githubusercontent.com/mzafram2001/my-dojo/main/readme-src/MyDojo1.png)
 
